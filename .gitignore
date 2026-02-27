@@ -1,0 +1,6 @@
+.env
+firebase_key.json
+users.db
+__pycache__/
+*.pyc
+*.pyo
