@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import requests
 import time
@@ -24,9 +25,7 @@ from goals import (
 from mental_profile import (
     generate_mental_profile, save_profile_snapshot, load_profile_snapshot
 )
-
 st.set_page_config(page_title="MindMate AI", layout="wide", initial_sidebar_state="expanded")
-
 API_KEY = os.getenv("FIREBASE_API_KEY")
 
 # ─────────────────────────────────────────────
