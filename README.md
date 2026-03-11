@@ -98,7 +98,7 @@ Mental health insights dashboard
 
 Akhil
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/vatyamsaiakhil-cyber
 
 ⭐ Support
 
